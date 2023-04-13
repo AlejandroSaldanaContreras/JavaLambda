@@ -1,5 +1,8 @@
+package dev;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
+import dev.HelloLambda;
 
 public class HelloLambdaTest {
 
